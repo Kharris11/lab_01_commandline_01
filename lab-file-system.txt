@@ -31,6 +31,9 @@ If it doesn't start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
+ /Users/student/mtec1003
+ent-v314-012:mtec1003 student$ 
+
 
 
 
@@ -43,7 +46,8 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+foo
+ent-v314-012:mtec1003 student$
 
 ==========
 6. Type:
@@ -53,7 +57,8 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+foo	food
+ent-v314-012:mtec1003 student$ 
 
 
 ==========
@@ -64,7 +69,8 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+foo	food
+ent-v314-012:mtec1003 student$ 
 
 
 ==========
@@ -75,7 +81,8 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/student/mtec1003/foo/bar/baz/qux
+ent-v314-012:qux student$ 
 
 
 ==========
@@ -86,6 +93,8 @@ $ pwd
 
 Copy and paste the output below.
 ----------
+/Users/student/mtec1003/foo/bar
+ent-v314-012:bar student$ 
 
 
 
@@ -98,6 +107,8 @@ $ pwd
 Copy and paste the output below.
 ----------
 
+/Users/student/mtec1003/foo/bar/baz/qux
+ent-v314-012:qux student$
 
  
 ==========
@@ -108,7 +119,8 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/student/mtec1003
+ent-v314-012:mtec1003 student$
 
 
 ==========
@@ -120,7 +132,10 @@ $ ls -l
 
 Copy and paste the first two lines from the output into the space below.
 ----------
-
+total 0
+drwxr-xr-x  3 student  staff  102 Aug 31 16:43 foo
+drwxr-xr-x  2 student  staff   68 Aug 31 16:44 food
+ent-v314-012:mtec1003 student$
 
 
 ==========
@@ -131,7 +146,8 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/student
+ent-v314-012:~ student$ 
 
 
 ==========
@@ -142,7 +158,8 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Volumes
+ent-v314-012:Volumes student$
 
 
 ==========
@@ -164,7 +181,8 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/student/mtec1003
+ent-v314-012:mtec1003 student$
 
 
 ==========
