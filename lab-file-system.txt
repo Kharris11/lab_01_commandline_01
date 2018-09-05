@@ -170,7 +170,8 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Volumes
+Ashleys-Air-2:Volumes AshCash$
 
 
 ==========
@@ -192,8 +193,8 @@ $ hostname
 
 Copy and paste the output into the space below.
 ----------
-
-
+-bash: $: command not found
+Ashleys-Air-2:Volumes AshCash$ 
 
 ==========
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
@@ -221,7 +222,7 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
-
+mkdir dir1/dir2/dir3
 
 
 ==========
@@ -229,7 +230,7 @@ Use only one command to make all of these new directories.  Write what command y
 
 Write the command you used to create the directory below:
 ----------
-
+mkdir
 
 
 ==========
